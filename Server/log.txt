@@ -36,3 +36,6 @@
 1712838009986: GET /about?nmae=aditya, New Request Received 
 1712838016868: GET /about?name=aditya, New Request Received 
 1712895985749: GET /about?name=RAJU, New Request Received 
+1712897339616: GET /, New Request Received 
+1712897342268: GET /, New Request Received 
+1712897343218: GET /, New Request Received 
