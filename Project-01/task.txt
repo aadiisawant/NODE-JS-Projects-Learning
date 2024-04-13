@@ -1,0 +1,17 @@
+REST API - JSON
+
+GET /users - HTML Document Render
+GET /api/users - List of all users - JSON
+
+GET /api/users/1 - Get the user with id 1
+Dynamic Path Parameters
+GET /api/users/:id // :id -> variable | dynamic
+
+
+POST /api/users - create new user
+
+PATCH /api/users/1 - Edit/Update the user with id 1
+
+DELETE /api/users/1 - Delete the user with id 1
+
+//The return keyword returns from your function, thus ending its execution. This means that any lines of code after it will not be executed.
